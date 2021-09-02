@@ -1,5 +1,5 @@
 # DRL-Agent
-
+## _Learnable Agent for Video Game Playing_
 Naive DQN & Double DQN & Dueling DQN & A2C <br>
 This project mainly used to compare the performance of DQN-based algorithm and A2C algorithm in several games, include ['CartPole-v0', 'LunarLander-v2', 'Breakout-v0', 'CarRacing-v0', 'Pendulum-v0'] 
 
